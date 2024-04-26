@@ -1,4 +1,4 @@
-# Gen-AI-project-with-Gemini-
+
 # Gen AI-Powered App with Streamlit and Google Gemini
 
 ## Overview
